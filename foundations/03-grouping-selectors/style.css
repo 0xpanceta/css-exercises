@@ -1,0 +1,14 @@
+. bob esponja, .patrick {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.bob-esponja {
+    color: white;
+    background-color: black;
+}
+
+.patrick {
+    background-color: yellow;
+}
+
